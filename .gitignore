@@ -1,2 +1,4 @@
 .DS_Store
 gcp-key.json
+.terraform/
+terraform.tfstate*
